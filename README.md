@@ -1,0 +1,1 @@
+A CLI tool that audits your own system (open ports, running services, weak file permissions)
